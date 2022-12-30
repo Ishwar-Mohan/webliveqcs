@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/webliveqcs/static/css/main.5874b4a4.chunk.css",
+    "main.js": "/webliveqcs/static/js/main.e8ed7677.chunk.js",
+    "main.js.map": "/webliveqcs/static/js/main.e8ed7677.chunk.js.map",
+    "runtime-main.js": "/webliveqcs/static/js/runtime-main.0d3b9a98.js",
+    "runtime-main.js.map": "/webliveqcs/static/js/runtime-main.0d3b9a98.js.map",
+    "static/css/2.7ab050f7.chunk.css": "/webliveqcs/static/css/2.7ab050f7.chunk.css",
+    "static/js/2.80f0cb2f.chunk.js": "/webliveqcs/static/js/2.80f0cb2f.chunk.js",
+    "static/js/2.80f0cb2f.chunk.js.map": "/webliveqcs/static/js/2.80f0cb2f.chunk.js.map",
+    "static/js/3.7716a18e.chunk.js": "/webliveqcs/static/js/3.7716a18e.chunk.js",
+    "static/js/3.7716a18e.chunk.js.map": "/webliveqcs/static/js/3.7716a18e.chunk.js.map",
+    "index.html": "/webliveqcs/index.html",
+    "static/css/2.7ab050f7.chunk.css.map": "/webliveqcs/static/css/2.7ab050f7.chunk.css.map",
+    "static/css/main.5874b4a4.chunk.css.map": "/webliveqcs/static/css/main.5874b4a4.chunk.css.map",
+    "static/js/2.80f0cb2f.chunk.js.LICENSE.txt": "/webliveqcs/static/js/2.80f0cb2f.chunk.js.LICENSE.txt",
+    "static/media/viewpatient.module.css": "/webliveqcs/static/media/bg11.6e663dab.jpg",
+    "static/media/caretakerlist.module.css": "/webliveqcs/static/media/carebg.c386c782.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d3b9a98.js",
+    "static/css/2.7ab050f7.chunk.css",
+    "static/js/2.80f0cb2f.chunk.js",
+    "static/css/main.5874b4a4.chunk.css",
+    "static/js/main.e8ed7677.chunk.js"
+  ]
+}
